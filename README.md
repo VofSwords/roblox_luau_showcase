@@ -2,6 +2,8 @@
 
 Showcasing some of my scripts that I use in my Roblox games.
 
+Connected Discord-GitHub
+
 ## Pure
 
 A collection of utility functions that I found missing in Roblox's built-in API. Inspired by lodash in JavaScript and functional programming. If I don't find a suitable alternative, I'll release this as a package
