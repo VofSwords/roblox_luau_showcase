@@ -12,4 +12,8 @@ A collection of utility functions that I found missing in Roblox's built-in API.
 
 Algorithm for splitting BaseParts into chunks for populating them with items in a grid layout in real-time. Currently used specifically for creating a keyboard floor and processing player presses on the keys. Actively uses spatialQueries.
 
+- `init.client.luau` — main entry point
+- `Chunks.luau` — chunk splitting logic
+- `Keys.luau` — keyboard key handling
+
 [Example](https://www.roblox.com/games/117530779058756/1-Speed-Keyboard-Escape-Sugar-Rush)
